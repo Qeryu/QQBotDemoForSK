@@ -1,0 +1,10 @@
+{
+    "BotAppID": "102006585",
+    "BotToken": "qMsHsFezmAbBFC5iLFFRW0VmclSfVeym",
+    "BotKey": "Wv881iEWaQ7aosjQ",
+    "BotWssAddr": "wss://sandbox.api.sgroup.qq.com/websocket",
+    "BotHttpsAddr": "https://sandbox.api.sgroup.qq.com",
+    "guild_id": "16749750561783461740",
+    "channel_id": "6579487",
+    "BotID": "4047335013973616336"
+}
